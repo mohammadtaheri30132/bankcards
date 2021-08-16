@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>svg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="payment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pay" transform="translate(-888.000000, -281.000000)">
+            <g id="form" transform="translate(452.000000, 111.000000)">
+                <g id="content" transform="translate(0.000000, 72.000000)">
+                    <g id="card" transform="translate(48.000000, 48.000000)">
+                        <g id="svg" transform="translate(388.000000, 50.000000)">
+                            <polygon id="Fill-1" fill="#EBB600" points="4.08868531 23.8373986 23.8474825 23.8373986 23.8474825 18.0427692 4.08868531 18.0427692"></polygon>
+                            <polygon id="Fill-2" fill="#EBB600" points="4.11805594 9.89124476 23.8768531 9.89124476 23.8768531 4.09661538 4.11805594 4.09661538"></polygon>
+                            <polygon id="Fill-3" fill="#A70E08" points="13.9984238 5.87412587e-05 -9.79020979e-06 13.9446462 4.08955664 18.0499748 18.0880881 4.10538741 13.9986196 5.87412587e-05"></polygon>
+                            <polygon id="Fill-4" fill="#A70E08" points="9.88033846 23.8373203 13.9699049 27.942649 27.9683385 13.9980615 23.878772 9.89263497"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

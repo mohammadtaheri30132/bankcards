@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="130px" viewBox="0 0 142 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0004 141.2449 0.0004 141.2449 129.9954 0 129.9954"></polygon>
+    </defs>
+    <g id="payment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pay" transform="translate(-988.000000, -353.000000)">
+            <g id="Group-3" transform="translate(988.000000, 353.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M106.1309,77.2234 C86.7909,77.2234 71.0179,61.4494 71.0179,42.1094 C71.0179,22.7704 86.7909,6.9964 106.1309,6.9964 C125.4709,6.9964 141.2449,22.7704 141.2449,42.1094 C141.2449,61.4494 125.4709,77.2234 106.1309,77.2234 L106.1309,77.2234 Z M105.9029,52.7474 L105.9029,32.2574 L63.4009,0.0004 L20.8989,32.2574 L20.8989,52.7474 L63.4009,20.4904 L105.9029,52.7474 Z M-0.0001,129.9954 L126.7999,129.9954 L126.7999,53.3264 L106.1579,53.3264 L106.1579,109.6514 L20.6419,109.6514 L20.6419,53.3264 L-0.0001,53.3264 L-0.0001,129.9954 Z" id="Fill-1" fill="#A31B06" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
